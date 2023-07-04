@@ -1,2 +1,2 @@
 # CS50-Problems
-My take on al CS50 Psets
+My take on all CS50 Psets
